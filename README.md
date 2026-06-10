@@ -103,7 +103,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=vaisharma24&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -145,7 +145,7 @@ Real-time chat using Socket.io.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=vaisharma24&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
